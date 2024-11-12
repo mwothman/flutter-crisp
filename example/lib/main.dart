@@ -9,7 +9,7 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  CrispMain crispMain;
+  late CrispMain crispMain;
 
   @override
   void initState() {
